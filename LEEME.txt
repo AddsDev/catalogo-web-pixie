@@ -1,0 +1,8 @@
+CATÁLOGO WEB PIXIE
+
+1. Descomprime todo el archivo ZIP en una carpeta.
+2. Abre index.html con tu navegador.
+3. Desde la página podrás filtrar las piezas y descargar el catálogo en PDF.
+
+Mantén la carpeta assets y el archivo catalogo-pixie.pdf junto a index.html.
+La página funciona sin conexión. Las imágenes son propuestas conceptuales y los precios son rangos sugeridos en pesos colombianos.
